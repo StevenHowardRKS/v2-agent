@@ -3,10 +3,9 @@
 - [感谢 JetBrains 提供的非商业开源软件开发授权](https://www.jetbrains.com/?from=v2ray-agent)
 - [Thanks for non-commercial open source development authorization by JetBrains](https://www.jetbrains.com/?from=v2ray-agent)
 
-- [English Version](https://github.com/mack-a/v2ray-agent/blob/master/documents/en/README_EN.md)
+- [English Version](https://github.com/StevenHowardRKS/v2-agent/blob/master/documents/en/README_EN.md)
 - [VPS选购指南](https://www.v2ray-agent.com/archives/1679975663984)
 - [ChatGPT解锁](https://www.v2ray-agent.com/archives/olinkshen-du-ce-ping)
-- [freevod一个免费的观影网站](https://share.freevod.org/)
 
 - **请给个⭐支持一下**
 
@@ -32,7 +31,7 @@
 - Github
 
 ```
-wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/mack-a/v2ray-agent/master/install.sh" && chmod 700 /root/install.sh && /root/install.sh
+wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/StevenHowardRKS/v2-agent/master/install.sh" && chmod 700 /root/install.sh && /root/install.sh
 ```
 
 - 官方网站【备用】
@@ -58,7 +57,7 @@ wget -P /root -N --no-check-certificate "https://www.v2ray-agent.com/v2ray-agent
 <details><summary>反馈和建议</summary>
 <br/>
 
-- 如果您在使用过程中遇到任何问题或者有任何建议，欢迎在这里提交[issue](https://github.com/mack-a/v2ray-agent/issues)，或者[加入](https://t.me/technologyshare)这个电报群进行交流。
+- 如果您在使用过程中遇到任何问题或者有任何建议，欢迎在这里提交[issue](https://github.com/StevenHowardRKS/v2-agent/issues)，或者[加入](https://t.me/technologyshare)这个电报群进行交流。
 </details>
 
 <details><summary>联系我</summary>
@@ -82,11 +81,11 @@ wget -P /root -N --no-check-certificate "https://www.v2ray-agent.com/v2ray-agent
 <details><summary>许可证</summary>
 <br/>
 
-[AGPL-3.0](https://github.com/mack-a/v2ray-agent/blob/master/LICENSE)
+[AGPL-3.0](https://github.com/StevenHowardRKS/v2-agent/blob/master/LICENSE)
 
 </details>
 
 
 ## Stargazers over time
 
-[![Stargazers over time](https://starchart.cc/mack-a/v2ray-agent.svg)](https://starchart.cc/mack-a/v2ray-agent)
+[![Stargazers over time](https://starchart.cc/StevenHowardRKS/v2-agent.svg)](https://starchart.cc/StevenHowardRKS/v2-agent)
